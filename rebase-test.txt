@@ -1,6 +1,6 @@
 this is rebase test document.
 (feat/#1-rebase-test)
-this is rebase test document. 
+this is rebase test document. 1
 this is rebase test document. 
 this is rebase test document. 
 this is rebase test document. 
